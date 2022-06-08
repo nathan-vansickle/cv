@@ -1,0 +1,36 @@
+body {
+    background-color: #F9F7F7;
+}
+
+hr {
+    border-style: inset;
+    border-width: 1px;
+    width: 97%;
+    border-color: black;
+}
+
+img {
+    
+}
+
+p {
+    color: black;
+}
+
+h1 {
+    color: #3F72AF;
+}
+
+h2 {
+    color: #3F72AF;
+}
+
+h3 {
+    color: #3F72AF;
+}
+
+/********************** CLASS SELECTORS **********************/
+
+.profilepic {
+    border-radius: 100%;
+}
